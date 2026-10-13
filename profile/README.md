@@ -100,8 +100,8 @@ and the [web app](https://app.wayli.ai) shows what is available today.
 
 ## About this organisation
 
-Wayli is a closed-source commercial product, so the repositories in this organisation are
-private and there is no code to browse here. This page is the public front door.
+Wayli is a closed-source commercial product: its code is kept in private repositories, so there
+is no source to browse here. This page is the public front door.
 
 - **Talk to us:** [hello@wayli.ai](mailto:hello@wayli.ai). Questions, ideas and corrections to a story are all welcome.
 - **Help:** [support](https://wayli.ai/support/) · [pricing](https://wayli.ai/pricing/) · [refunds](https://wayli.ai/refund/)
