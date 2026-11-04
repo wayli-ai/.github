@@ -1,7 +1,8 @@
 <!--
   Front page of the wayli-ai organisation. The copy of record and the generator of
   every image live in the team's brand workspace; this repository is only the published copy.
-  Every fact here was read from wayli.ai or the App Store listing on 13 October 2026.
+  Every fact here was read from wayli.ai or the App Store listing on 13 October 2026, and
+  re-read on 4 November 2026 (Google Play, walk counts).
 -->
 
 <p align="center">
@@ -21,8 +22,8 @@ to keep up with, no screen to read while you walk.
 </p>
 
 - **iPhone:** [Wayli on the App Store](https://apps.apple.com/app/apple-store/id6804773547?pt=129350869&ct=github&mt=8) (listed there as "Wayli AI").
-- **Web:** [app.wayli.ai](https://app.wayli.ai), in any browser. One account works on both.
-- **Android:** there is no Android app yet. Use the web app in your browser: [app.wayli.ai](https://app.wayli.ai).
+- **Web:** [app.wayli.ai](https://app.wayli.ai), in any browser. One account works everywhere.
+- **Android:** [Wayli on Google Play](https://wayli.ai/go/play?ct=github&utm_medium=social) (listed there as "Wayli: Audio Walking Tours").
 
 Free to start: signed in without a plan you get 3 tours and 5 new narrations a day. If you want
 more, a 3-day pass is $3.99 and a 7-day pass is $5.99, each one payment that never renews.
@@ -73,10 +74,10 @@ when you do, in your ear, and the walk fits the hour you actually have.
 ## Where it works today
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wayli-ai/.github/main/profile/assets/cities-dark.svg"><img src="https://raw.githubusercontent.com/wayli-ai/.github/main/profile/assets/cities-light.svg" width="100%" alt="Ready walks today: Jerusalem 6, Tel Aviv 6, Milan 4, Boston 3, Washington DC 3, New York 2, Toronto 1, Miami 1. Your city: built on request."></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wayli-ai/.github/main/profile/assets/cities-dark.svg"><img src="https://raw.githubusercontent.com/wayli-ai/.github/main/profile/assets/cities-light.svg" width="100%" alt="Ready walks today: Jerusalem 6, Tel Aviv 6, Washington DC 6, Milan 5, Boston 3, New York 2, Toronto 1, Miami 1. Your city: built on request."></picture>
 </p>
 
-Ready walks, as listed on wayli.ai on 13 October 2026: [Jerusalem](https://wayli.ai/tours/jerusalem/?utm_source=github&utm_medium=social&utm_campaign=org-page) (6), [Tel Aviv](https://wayli.ai/tours/tel-aviv/?utm_source=github&utm_medium=social&utm_campaign=org-page) (6), [Milan](https://wayli.ai/tours/milan/?utm_source=github&utm_medium=social&utm_campaign=org-page) (4), [Boston](https://wayli.ai/tours/boston/?utm_source=github&utm_medium=social&utm_campaign=org-page) (3), [Washington DC](https://wayli.ai/tours/washington-dc/?utm_source=github&utm_medium=social&utm_campaign=org-page) (3), [New York](https://wayli.ai/tours/new-york/?utm_source=github&utm_medium=social&utm_campaign=org-page) (2), [Toronto](https://wayli.ai/tours/toronto/?utm_source=github&utm_medium=social&utm_campaign=org-page) (1), [Miami](https://wayli.ai/tours/miami/?utm_source=github&utm_medium=social&utm_campaign=org-page) (1).
+Ready walks, as listed on wayli.ai on 4 November 2026: [Jerusalem](https://wayli.ai/tours/jerusalem/?utm_source=github&utm_medium=social&utm_campaign=org-page) (6), [Tel Aviv](https://wayli.ai/tours/tel-aviv/?utm_source=github&utm_medium=social&utm_campaign=org-page) (6), [Washington DC](https://wayli.ai/tours/washington-dc/?utm_source=github&utm_medium=social&utm_campaign=org-page) (6), [Milan](https://wayli.ai/tours/milan/?utm_source=github&utm_medium=social&utm_campaign=org-page) (5), [Boston](https://wayli.ai/tours/boston/?utm_source=github&utm_medium=social&utm_campaign=org-page) (3), [New York](https://wayli.ai/tours/new-york/?utm_source=github&utm_medium=social&utm_campaign=org-page) (2), [Toronto](https://wayli.ai/tours/toronto/?utm_source=github&utm_medium=social&utm_campaign=org-page) (1), [Miami](https://wayli.ai/tours/miami/?utm_source=github&utm_medium=social&utm_campaign=org-page) (1).
 
 In Paris, narrated places are ready and your walk is assembled when you ask. In any other city,
 in the site's words, "tell Wayli what you like, and the stories are prepared on request": the
